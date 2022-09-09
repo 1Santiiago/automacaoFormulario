@@ -6,7 +6,7 @@ const App = () => {
   // Utilizando a array abaixo para mostrar
   // cada checkbox na tela.
 
-  const coresArray = ["azul", "roxo", "laranja", "verde", "vermelho", "cinza"];
+  const coresArray = ["azul", "roxo", "laranja", "verde", "vermelho", "cinza", "rosa"];
 
   const [cores, setCores] = React.useState(["azul"]);
 
